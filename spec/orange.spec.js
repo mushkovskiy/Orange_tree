@@ -1,4 +1,4 @@
-const Orange = require('../orange');
+// const Orange = require('../orange');
 
 describe('Orange', () => {
 	let orange, desiredDiameterRange;
